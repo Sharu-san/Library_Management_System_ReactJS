@@ -1,0 +1,17 @@
+.header {
+    overflow: hidden;
+    background-color: #200772;
+    padding: 10px 10px;
+    height: 100px;
+  
+    margin-top: none;
+  }
+
+  .textheader{
+    color:white;
+    margin-top: 15px; 
+    font-family:'Segoe UI', bold ;
+    font-weight: 400;
+    word-spacing: 10px;  
+    font-size: 40px;  
+  }

@@ -1,0 +1,79 @@
+body{
+    background:white;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Segoe UI', bold;
+    font-size: 35px;
+    margin-top: 4px;
+    margin-bottom: 2px;
+
+}
+
+form{
+    display: inline-block;
+    align-items: center;
+    height: 270px;
+    width: 350px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+.text_area{
+    align-content: center;
+    border-radius: 22px;
+    margin-bottom: 35px;
+    width: 100%;
+    height: 64px;
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.2), 0 0 20px 0 rgba(0, 0, 0, 0.19);
+    border: none;
+}
+
+.text_input{
+    color: black;
+    font-family: 'Montserrat regular';
+    font-size: 20px;
+    border:none;
+    border-style: none;
+    
+    width: 80%;
+    /* margin-top: 1.2rem; */
+}
+
+.btn{
+    margin-top: 5px;
+    width: 150px;
+    height: 60px;
+    border-radius: 20px;
+    background: #040168;
+    border: none;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    color: #FFFFFF;
+    box-shadow: 0 4px 8px #040168(181, 141, 237, 0.7), 0 6px 20px 0 rgba(181, 141, 237, 0.9);
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
+.register{
+    background: #FFFFFF;
+    border-radius: 20px;
+    /* display: inline-block; */
+    /* width: 434px;
+    height: 700px; */
+    /* margin-top: 5%; */
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+
+.link{
+    margin-top: 20px;
+    color: #060606;
+    font-family: 'Montserrat light';
+    font-size: 18px;
+    cursor: pointer;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
